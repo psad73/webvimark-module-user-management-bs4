@@ -25,9 +25,9 @@ $this->params['breadcrumbs'][] = $this->title;
 
 	<?php // echo $this->render('_search', ['model' => $searchModel]); ?>
 
-	<div class="panel panel-default">
+	<div class="card card-primary">
 
-		<div class="panel-body">
+		<div class="card-body">
 			<div class="row">
 				<div class="col-sm-6">
 					<p>

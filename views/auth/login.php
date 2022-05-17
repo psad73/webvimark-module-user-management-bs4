@@ -13,7 +13,7 @@ use yii\helpers\Html;
 <div class="container" id="login-wrapper">
 	<div class="row">
 		<div class="col">
-			<div class="card card-default">
+			<div class="card card-primary">
 				<div class="card-header">
 					<h3 class="card-title"><?= UserManagementModule::t('front', 'Authorization') ?></h3>
 				</div>
